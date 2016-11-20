@@ -27,6 +27,10 @@
         //Out put the name
         System.out.println("appName ==== " + appName);
    
+
+
+![](https://github.com/TrillGates/GetApkLabelName/blob/master/screenshot.jpg)
+
 手机上的apk路径是演示的路径，那么我们把程序跑起来以后呢，就可以看得到这样的结果啦：
 
         I/System.out: appName ==== 滴答表盘
